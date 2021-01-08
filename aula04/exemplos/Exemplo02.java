@@ -8,7 +8,7 @@ public class Exemplo02 {
         int calculo;
         int numero1;
 
-        System.out.println("Informe um número inteiro:");
+        System.out.println("Informe um número inteiro:     ");
         numero1 = entrada.nextInt();
 
         calculo = soma(numero1, 5);
