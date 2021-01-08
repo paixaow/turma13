@@ -11,7 +11,7 @@ public class Veiculo {
     }
 
     public void exibir() {
-        System.out.println("Veiculo-> " + modelo + " : " + marca);
+        System.out.println("Veiculo novo-> " + modelo + " : " + marca);
     }
 
     public double obterConsumo() {
