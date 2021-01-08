@@ -8,7 +8,7 @@ public class Exemplo01 {
         int comprimento = 30;
         
         linha(); //chamada de método
-        System.out.println("Meu programa");
+        System.out.println("Meu programa   ");
         linha();
         System.out.println("1 - criar um novo usuário");
         linha2(25);
